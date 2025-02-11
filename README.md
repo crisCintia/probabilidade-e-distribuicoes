@@ -28,7 +28,7 @@ Este repositório contém implementações de conceitos fundamentais de **Probab
 ### 📌 Como instalar as dependências do requirements.txt?
    ```bash
    pip install -r requirements.txt
-
+   ```
 
 ## 🛠️ Tecnologias Utilizadas
 - Python 3.13
