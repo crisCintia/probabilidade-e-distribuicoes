@@ -48,7 +48,15 @@ Este repositório contém implementações de conceitos fundamentais de **Probab
 ## 🎯 Exemplo de saída - Distribuições Estatísticas
 1) Qual distribuição deseja visualizar (Normal, Binomial ou Poisson): Binomial
    - Qual o número de tentativas (n): 10
-   - Qual a probabilidade de sucesso (0 a 1): 0.3   
+   - Qual a probabilidade de sucesso (0 a 1): 0.3
+
+## 🚀 Melhorias Futuras
+Aqui estão algumas melhorias planejadas para evolução do projeto:
+
+1️⃣ Adicionar um menu de seleção numérico para escolher a distribuição.  
+2️⃣ Permitir que o usuário defina média e desvio padrão na Distribuição Normal
+3️⃣ Criar um dashboard interativo com `Streamlit`
+4️⃣ Implementar testes automatizados usando `pytest`.  
 
 ## 🧑‍💻 Autor
 - Desenvolvido por Cíntia Soares.
