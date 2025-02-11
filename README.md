@@ -22,15 +22,15 @@ Este repositório contém implementações de conceitos fundamentais de **Probab
    git clone https://github.com/seu-usuario/probabilidade-e-distribuicoes.git
 
 2. Execute os scripts:
-   desafio_lancamento_moeda.py
-   distribuicoes_estatisticas.py
+   - desafio_lancamento_moeda.py
+   - distribuicoes_estatisticas.py
 
 ## 🛠️ Tecnologias Utilizadas
-Python 3.13
-NumPy
-SciPy
-Matplotlib
+- Python 3.13
+- NumPy
+- SciPy
+- Matplotlib
 
 ## 🧑‍💻 Autor
-Desenvolvido por Cíntia Soares.
+- Desenvolvido por Cíntia Soares.
 
