@@ -31,6 +31,20 @@ Este repositório contém implementações de conceitos fundamentais de **Probab
 - SciPy
 - Matplotlib
 
+## 🎯 Exemplo de saída - Lançamento de Moeda
+1) Digite a quantidade de lançamentos: 10
+   - Resultados:
+      - Cara: 6 vezes
+      - Coroa: 4 vezes
+   - Probabilidade teórica:
+      - Cara: 50.00%
+      - Coroa: 50.00%
+
+## 🎯 Exemplo de saída - Distribuições Estatísticas
+1) Qual distribuição deseja visualizar (Normal, Binomial ou Poisson): Binomial
+   - Qual o número de tentativas (n): 10
+   - Qual a probabilidade de sucesso (0 a 1): 0.3   
+
 ## 🧑‍💻 Autor
 - Desenvolvido por Cíntia Soares.
 
