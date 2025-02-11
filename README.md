@@ -54,8 +54,8 @@ Este repositório contém implementações de conceitos fundamentais de **Probab
 Aqui estão algumas melhorias planejadas para evolução do projeto:
 
 1️⃣ Adicionar um menu de seleção numérico para escolher a distribuição.  
-2️⃣ Permitir que o usuário defina média e desvio padrão na Distribuição Normal.
-3️⃣ Criar um dashboard interativo com `Streamlit`.
+2️⃣ Permitir que o usuário defina média e desvio padrão na Distribuição Normal.   
+3️⃣ Criar um dashboard interativo com `Streamlit`.   
 4️⃣ Implementar testes automatizados usando `pytest`.  
 
 ## 🧑‍💻 Autor
