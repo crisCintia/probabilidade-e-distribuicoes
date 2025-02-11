@@ -25,6 +25,9 @@ Este repositório contém implementações de conceitos fundamentais de **Probab
    - desafio_lancamento_moeda.py
    - distribuicoes_estatisticas.py
 
+### 📌 Como instalar as dependências do requirements.txt?
+   pip install -r requirements.txt
+
 ## 🛠️ Tecnologias Utilizadas
 - Python 3.13
 - NumPy
